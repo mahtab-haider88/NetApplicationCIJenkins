@@ -8,6 +8,6 @@
         About
     </h2>
     <p>
-        Put content here.
+        Hello Mr Haider. Please provide some basic details about yourself here.
     </p>
 </asp:Content>
